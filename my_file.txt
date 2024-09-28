@@ -1,0 +1,6 @@
+Name: Mary Ann, Age: 25, Score: 85.
+Name: Jane, Age: 20, Score: 75.
+Name: George, Age: 23, Score: 78.
+Name: Elias, Age: 26, Score:86.
+Name: Abel, Age: 21, Score:79.
+Name: Cally, Age: 24, Score: 72.
